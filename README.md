@@ -12,7 +12,7 @@ We'll create a simple version of Banking App with basic functionalities: creatin
 ## Getting Started
 To run this project locally, follow these steps:
 ### Prerequisites
-- [Required software, e.g., Java,, etc.]
+- [Build tools : Maven ]
 - [Installation instructions for dependencies]
 
 ### Installation
