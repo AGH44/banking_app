@@ -12,9 +12,12 @@ We'll create a simple version of Banking App with basic functionalities: creatin
 ## Getting Started
 To run this project locally, follow these steps:
 ### Prerequisites
-- [Build tools : Maven ]
-- [Installation instructions for dependencies]
-
+Project: Maven Project (or Gradle) 
+Language: Java 
+Packaging: Jar 
+Java version: 17
+Dependencies: Spring Web, Spring Data JPA, MySQL Driver, and Lombok
+Download, extract the project and import in your favorite IDE.
 ### Installation
 1. Clone the repository:
    ```bash
