@@ -83,7 +83,7 @@ Below are the core endpoints you can use with the Banking System API:
   Request Body Example:  
   ```json
   {
-    "accountHolderName": "John Doe",
+    "accountHolderName": "Test Name",
     "initialDeposit": 500
   }
   ```
